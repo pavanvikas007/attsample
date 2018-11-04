@@ -1,0 +1,2 @@
+system.print.out("hello");
+
